@@ -40,3 +40,16 @@ To run this project locally, follow these steps:
 2. Open the `index.html` file in your web browser to view the website.
 3. Optionally, set up a local development server using tools like Live Server for VSCode to enable automatic browser refresh and other development features.
 
+4. 4. ## Video Demonstration
+
+Watch the [my-portfolio Demo].
+
+https://github.com/Yosra697/my-potfolio/assets/83519787/16891cd3-4070-412c-bc10-c3158d187ae7
+
+Watch the [Responsive my-portfolio Demo (iphone XR )].
+
+https://github.com/Yosra697/my-potfolio/assets/83519787/56f7099b-12e6-4b6a-9b5b-d053aa24f51e
+
+
+
+
