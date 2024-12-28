@@ -6,6 +6,9 @@
   .about-containers {
     flex-wrap: wrap;
   }
+  .text-container {
+    text-align: justify;
+  }
   #contact,
   #projects {
     height: fit-content;
@@ -43,6 +46,7 @@
     margin: 0 auto 2rem;
   }
   .about-containers {
+    flex-wrap: wrap;
     margin-top: 0;
   }
 }
